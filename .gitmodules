@@ -1,0 +1,9 @@
+[submodule "aggregator/FedAvg1"]
+	path = aggregator/FedAvg1
+	url = git@github.com:IBM/federated-learning-lib.git
+[submodule "aggregator/FedMa1"]
+	path = aggregator/FedMa1
+	url = git@github.com:IBM/FedMA.git
+[submodule "aggregator/FedProx1"]
+	path = aggregator/FedProx1
+	url = git@github.com:litian96/FedProx.git
